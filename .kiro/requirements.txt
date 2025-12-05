@@ -1,0 +1,1 @@
+echo "# No external dependencies required." > requirements.txt
